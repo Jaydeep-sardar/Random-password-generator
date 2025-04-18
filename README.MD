@@ -3,7 +3,13 @@
 
 A clean, responsive and customizable **Random Password Generator** built using **HTML**, **CSS**, and **JavaScript**. Generate strong passwords with various options for better online security.
 
-![screenshot]("demo.png")
+---
+
+## 📸 Preview
+
+Here's how the Password Generator looks in action:
+
+![Screenshot](./demo.png)
 
 ---
 
@@ -24,7 +30,7 @@ A clean, responsive and customizable **Random Password Generator** built using *
 
 - **HTML5** – Structure and layout
 - **CSS3** – Responsive and modern dark UI
-- **Vanilla JavaScript** – Core password generation logic
+- **JavaScript** – Core password generation logic
 
 ---
 
@@ -35,23 +41,11 @@ password-generator/
 │
 ├── index.html      # Main webpage structure
 ├── style.css       # Custom dark theme styling
-└── main.js         # JavaScript logic to generate password
+├── main.js         # JavaScript logic to generate password
+└── demo.png        # Screenshot preview image
 ```
 
 ---
-
-## 📸 Preview
-
-Open `index.html` in your browser to launch the app.
-
-You’ll see options to:
-- Select password length
-- Toggle character types (lowercase, uppercase, numbers, symbols)
-- Click **Generate Password** to create one instantly
-
-The password will appear in a styled output box below the button.
-
-
 
 ## ✨ Custom Styling Highlights
 
@@ -62,11 +56,12 @@ The password will appear in a styled output box below the button.
 
 ---
 
-
 ## 🙌 Acknowledgements
 
 - Inspired by a need for simple and strong password creation tools
 - Color palette influenced by Spotify’s theme 🌿
+
+---
 
 
 ## 🙏 Thank You
@@ -74,4 +69,4 @@ The password will appear in a styled output box below the button.
 Thank you for checking out this project!  
 If you liked it or found it useful, feel free to ⭐ star the repo or share your feedback!
 
-
+---
