@@ -3,7 +3,7 @@
 
 A clean, responsive and customizable **Random Password Generator** built using **HTML**, **CSS**, and **JavaScript**. Generate strong passwords with various options for better online security.
 
-![screenshot]("C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2025-04-18 115852.png")
+![screenshot]("demo.png")
 
 ---
 
